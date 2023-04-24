@@ -5,12 +5,12 @@
     background-color: rgb(128, 0, 128);
     border-left:solid;
     border-left-width: 5px;
-    border-left-color:rgb(0, 128, 0) ;       
+    border-left-color:rgb(0, 128, 0) ;  
+	padding: 10px;
 }
 
 #heading{
-	font-size: 20px;
-    padding: 10px;
+	font-size: 20px;    
     color: white;
     text-decoration: underline;
 }
