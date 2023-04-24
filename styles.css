@@ -1,12 +1,14 @@
 
 /* Your CSS Code here. */
-.container{
-    width: 200px;
+.container {
+     width: 200px;
     background-color: purple;
-    border-left: 5px solid;
+    border-left:solid;
+    border-left-width: 5px;
     border-left-color:green ;    
     font-size: 20px;
     padding: 10px;
     color: white;
+    text-decoration: underline;
     text-decoration: underline;
 }
